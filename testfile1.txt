@@ -5,3 +5,6 @@ line 4
 line 5
 hamada x
 hamada y
+hamada z
+hamada k
+ hamadsa koko

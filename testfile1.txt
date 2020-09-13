@@ -7,3 +7,4 @@ hamada x
 hamada y
 hamada z
 hamada k
+ hamadsa koko
